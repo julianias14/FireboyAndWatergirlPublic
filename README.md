@@ -1,11 +1,11 @@
 # FireboyAndWatergirlPublic
 Recursion assignment for CS111 (Introduction to Computer Science) classes at Rutgers University - New Brunswick. The characters recursively seek a path, inspired by the classic game of the same name. Students are meant to implement a recursive function using conditionals to check for safe paths forward while keeping track of visited paths.
 
-OFFICIAL ASSIGNMENT DESCRIPTION:
+## OFFICIAL ASSIGNMENT DESCRIPTION:
 In this assignment, you will implement a recursive function using conditionals to check for safe paths forward. This assignment simulates the Fireboy and Watergirl game, and your program is meant to find a safe path by checking for any hazards and if so, moving the character back until they can find another path forward. This pattern continues until both characters find the exit.
 In the original Fireboy and Watergirl game, both characters have hazards to avoid and diamonds to collect. In your program, both characters must avoid the green goo. Fireboy can walk through lava and will collect fire diamonds but must avoid water. Watergirl can walk through water and will collect water diamonds but must avoid lava.
 
-# main()
+### main()
 The input file contains the maze’s dimension d in the first line and d lines with d characters:
 ‘F’ = lava; only Fireboy can step here.
 ‘W’ = water; only Watergirl can step here.
@@ -21,7 +21,7 @@ Then, it calls nextStep() for Fireboy and then for Watergirl.
 Calls the nextStep method for Fireboy printing Fireboy’s final path.
 Calls the nextStep method for Watergirl printing Watergirl’s final path.
 
-# nextStep()
+### nextStep()
 This is a recursive function that determines if the current cell (row, col) can be visited by the hero, and then visits the neighboring cells. The nextStep method returns when no other step can be taken.
 
 A cell can only be visited once.
