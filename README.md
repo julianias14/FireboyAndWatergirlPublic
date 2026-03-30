@@ -25,10 +25,10 @@ I created this assignment with a peer as part of the Rutgers Assignment Guru pro
 * Outputs visited paths as grids
 
 ## Maze Legend
-‘F’ = lava; only Fireboy can step here.
-‘W’ = water; only Watergirl can step here.
-‘N’ = neutral; both characters can step here.
-‘G’ = green goo; neither character can step here.
+* ‘F’ = lava; only Fireboy can step here.
+* ‘W’ = water; only Watergirl can step here.
+* ‘N’ = neutral; both characters can step here.
+* ‘G’ = green goo; neither character can step here.
 
 ## How it Works
 1. Input File
