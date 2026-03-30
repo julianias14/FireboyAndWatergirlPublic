@@ -53,9 +53,14 @@ Run: java FireboyAndWatergirl <input_file>
 ## Example:
 ### javac FireboyAndWatergirl.java
 ### java FireboyAndWatergirl maze1.txt
+<br>
 <img width="702" height="482" alt="image" src="https://github.com/user-attachments/assets/0bca2d38-f6a5-4684-9243-45e98ca5fd3e" />
+<br>
 <img width="557" height="1024" alt="image" src="https://github.com/user-attachments/assets/b180ffd7-c831-404f-8552-a2e208c0361e" />
+<br>
 <img width="557" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad723aa0-bb33-4fcf-a0f8-7a5cec8ba88e" />
+<br>
 ### javac FireboyAndWatergirl.java
 ### java FireboyAndWatergirl maze2.txt
+<br>
 <img width="700" height="995" alt="image" src="https://github.com/user-attachments/assets/f346e49c-bbbb-4f22-bc3c-ca318bf31e70" />
