@@ -54,4 +54,4 @@ Run: java FireboyAndWatergirl <input_file>
 ### javac FireboyAndWatergirl.java
 ### java FireboyAndWatergirl maze2.txt
 <br>
-<img width="140" height="199" alt="image" src="https://github.com/user-attachments/assets/f346e49c-bbbb-4f22-bc3c-ca318bf31e70" />
+<img width="280" height="398" alt="image" src="https://github.com/user-attachments/assets/f346e49c-bbbb-4f22-bc3c-ca318bf31e70" />
