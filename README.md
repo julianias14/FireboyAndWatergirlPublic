@@ -55,3 +55,6 @@ Run: java FireboyAndWatergirl <input_file>
 ### java FireboyAndWatergirl maze2.txt
 <br>
 <img width="280" height="398" alt="image" src="https://github.com/user-attachments/assets/f346e49c-bbbb-4f22-bc3c-ca318bf31e70" />
+
+## ⚠️ Academic Integrity
+This repository is intended for professional reference only. Students are expected to complete the implementation based on the description from the official course website.
