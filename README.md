@@ -51,7 +51,7 @@ Compile: javac FireboyAndWatergirl.java
 Run: java FireboyAndWatergirl <input_file>
 
 ## Example:
-### javac FireboyAndWatergirl.java
+### javac FireboyAndWatergirl.java\n
 ### java FireboyAndWatergirl maze2.txt
 <br>
 <img width="280" height="398" alt="image" src="https://github.com/user-attachments/assets/f346e49c-bbbb-4f22-bc3c-ca318bf31e70" />
