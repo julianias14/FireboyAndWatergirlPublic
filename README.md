@@ -47,12 +47,11 @@ Base case: returns if the current cell is out of bounds, has been visited, or un
 Recursive step: marks the current cell as visited, calls nextStep() on neighbors in the following order: down, left, up, right
 
 ## Running the Project
-Compile: javac FireboyAndWatergirl.java
-Run: java FireboyAndWatergirl <input_file>
+* Compile: javac FireboyAndWatergirl.java
+* Run: java FireboyAndWatergirl <input_file>
 
 ## Example:
-### javac FireboyAndWatergirl.java\n
-### java FireboyAndWatergirl maze2.txt
+### maze2.txt
 <br>
 <img width="280" height="398" alt="image" src="https://github.com/user-attachments/assets/f346e49c-bbbb-4f22-bc3c-ca318bf31e70" />
 
